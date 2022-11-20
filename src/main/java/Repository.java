@@ -21,7 +21,7 @@ public class Repository {
 
     public void removeById(int id) {
         if (findById(id) == null) {
-            throw new RuntimeException("Element with id: " + id + " not found");
+            throw new NotFoundException("Element with id: " + id + " not found");
         }
         Product[] tmp = new Product[products.length - 1];
         int copyToIndex = 0;
