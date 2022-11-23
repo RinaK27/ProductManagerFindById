@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2d310e8-ebc1-4315-8ca0-ae24b6ec48d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProductRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProductRepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Java new/ProductManagerFindById"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.ProductRepositoryTest">
     <configuration name="ManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProductManagerFindById" />

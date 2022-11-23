@@ -14,7 +14,7 @@ public class ProductRepositoryTest {
         repo.add(book2);
         repo.add(book3);
 
-        Assertions.assertThrows(RuntimeException.class, () -> {
+        Assertions.assertThrows(NotFoundException.class, () -> {
             repo.removeById(6);
         });
     }
